@@ -5,7 +5,11 @@
 // import Exam5 from "./components/Exam5";
 // import Exam6_1 from "./components/Exam6_1";
 // import Exam6_2 from "./components/Exam6_2";
-import Exam7 from "./components/Exam7";
+// import Exam7 from "./components/Exam7";
+
+import TodoList from "./components/TodoList";
+
+
 
 function App() {
   // js 주석
@@ -23,7 +27,8 @@ function App() {
       {/* <Exam5 /> */}
       {/* <Exam6_1 /> */}
       {/* <Exam6_2 /> */}
-      <Exam7 />
+      {/* <Exam7 /> */}
+      <TodoList />
     </div>
   );
 }
